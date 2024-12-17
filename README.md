@@ -26,3 +26,8 @@ From missions to epic battles, CyEscape creates an immersive, memorable, and edu
 
 ### 🚀 *Ready to Play and Learn?*  
 🌐 *Explore, escape, and secure with CyEscape.*  
+
+### 📚*Resources*  
+https://sddec24-07.sd.ece.iastate.edu
+
+
