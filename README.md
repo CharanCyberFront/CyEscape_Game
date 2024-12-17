@@ -24,10 +24,10 @@ In cybersecurity education, a major challenge lies in the lack of practical yet 
 Each level introduces and explores a unique OWASP security concept, providing hands-on learning.  
 
 - 📖 **2. Narrative-Driven Gameplay**  
-Every stage is not just a challenge but a part of a gripping story that progressively builds towards a climactic showdown.  
+Every stage is not just a challenge but a part of a gripping story that progressively builds towards a climactic escape.  
 
 - 🌟 **3. Engaging Experiences**  
-From **missions** to epic protagonists, CyEscape creates an immersive, memorable, and educational journey for learners.  
+From missions to epic battles, CyEscape creates an immersive, memorable, and educational journey for learners.  
 
 
 ### 🚀 *Ready to Play and Learn?*  
