@@ -1,0 +1,4351 @@
+fileFormatVersion: 2
+guid: 2674622334825d242b6653e02dfa74ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Young Scientist_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2881
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2dffd98cbd5c74ab5099caad5d6643
+      internalID: -1257311084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2881
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67137b08b0451ab4ea8a15d07f731053
+      internalID: 1016213156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2881
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68c77eb4a92e964a89b6283ed617838
+      internalID: -503929068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2881
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615281bd5da420c46a6a22581444bbcc
+      internalID: 1577161620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2881
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2419e75970933c4fbc4abfc1db2af37
+      internalID: -115334537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2881
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00ff636f46856468118ff608203410
+      internalID: 1923744338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2881
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c7769228c43e469320ffb651f709f
+      internalID: 358887893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2897
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211466eb12db4d4589bc1eb80561b59
+      internalID: -777378304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2818
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cae98346e496b45b0e96af8dfb34c8
+      internalID: 627269068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2818
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe6a390234d55749921bbda035b8108
+      internalID: 1183214281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2818
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1f740dcd864c4b83d19d556307ef8
+      internalID: 1321864718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2818
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6abec0ac6af75c48ba1a2790efb5b86
+      internalID: 1463803304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2818
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b18b19047fbf54592b05a6b7c0dbc1
+      internalID: -1644888748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2818
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d91acc076daf4491e1aa654dacc2e
+      internalID: 233208822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2818
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ee47c13dc67e48bd3c66064be6cb9
+      internalID: -324557211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2753
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d0350075cb62640bc87cfa1db5a6a9
+      internalID: -102864898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2753
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f4f3ad07bab3499e578794b36b6c6
+      internalID: -322846745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2753
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6506d32966005f443910da7098edd01c
+      internalID: 1561734342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2753
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed0ded246aac57439a38c805f04b55c
+      internalID: -1263570930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2753
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a843e7878e56d13448f1c74b263c64a0
+      internalID: 347953996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2753
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd6cefca6505f741b19119bd868b97c
+      internalID: 1571663265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2753
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f59a714cdb2843b4a966942322c2b
+      internalID: -1801662236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2690
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880601ad2920e246826224834955717
+      internalID: 1808448463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2690
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9321bb248202474daab570665dc3938
+      internalID: 774356700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2690
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c38cf214c7a8418843dae40652312
+      internalID: -266150174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2690
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43199ff3e0edede4c94a6f1f00257a7e
+      internalID: -255868890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2690
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f1241c6ed6c05499bbd7647264c07d
+      internalID: -947295379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2690
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6502904eaedc8594eba222dbcde091b5
+      internalID: -29830898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2690
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567c4d139632c544ac4954553ae9bdf
+      internalID: 638537695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2625
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542596ed6bf1d4047a344c70efe88628
+      internalID: -1973230718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2623
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f1cdf6c6029b48a02351ee0cb39f7
+      internalID: -744300187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2623
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81247756790f44086a684ad9695456
+      internalID: 2118909573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2623
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135036db663412e45a5c457c790aea16
+      internalID: 1618108709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2623
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e377029de3a4a4c8b5c023b959cce6
+      internalID: 375402761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2623
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17e35df92dc72418cacbb7730e5b99
+      internalID: -979973256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2623
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5089160e686281d4ba95c7c7286bcc8a
+      internalID: -1983626126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2623
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9354b0d6010b54a8b08e78b52abddd
+      internalID: -123682554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2562
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931917e86e0fd84cb4c1e89c62f7b0a
+      internalID: 1178174544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2562
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b13633bcf1033b45bfc5844f8193307
+      internalID: 1272047779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2562
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3327498091d5745bf2015945766111
+      internalID: -1747380715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2562
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833ad6c9d5a5134b9bde9469117d6d4
+      internalID: -556668129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2562
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35866e76ef8d622409abacbbded1c7ce
+      internalID: 1478894348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2562
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3a29a903b2b842bb0ed863bafe32b
+      internalID: -467942184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2562
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f9f995092f40469e797c090b8d526
+      internalID: -1905869701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2562
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf87d1fe0fe02b48866154badfde26f
+      internalID: -1721476637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2497
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac752d7fa36df48958a041a12a15af
+      internalID: 877849865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2498
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030bd916b6ef5b34788c122156f9f860
+      internalID: -492091875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2498
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fa030aad1e2b42be51783464f0166
+      internalID: 2085507349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2498
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b71edbdc4c2747a87a326b53ab98d
+      internalID: 1201177987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2498
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd87bf41cc2ca044a87f5f78490f6ac9
+      internalID: 794404877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2498
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf36afb472914a46b26dbd3b95213b0
+      internalID: 1898907658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2498
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679581bcc9d682448f8a649a5caa82d
+      internalID: 2019012542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2498
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc850554b6f2c449c22c7231ff0855
+      internalID: -120927663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2432
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515529f0e42eb3d4b94e645885ddecfa
+      internalID: -1861366032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2432
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d0dcdd5e1fbaf4ea5532943b1047fa
+      internalID: -1950215216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2432
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f3999ae0b1e646b595ea5d56249a8
+      internalID: 1924202970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2432
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcbc8959b0650542b812bd95a0f13d8
+      internalID: 1564147774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2432
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10afeef0de8c0fa40bc8bd314c7ab975
+      internalID: 1799809236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2432
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645143876168bc54f814e195709f7013
+      internalID: -1243660980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2432
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac1ea8e4e964c479a8d8de113cc0e9
+      internalID: 1104579227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2432
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedeabf2d8cf39248a9c7c418a12424f
+      internalID: -1733861703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2370
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e03917cee7663240a4fe997a8302445
+      internalID: 629652860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2370
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade13548fc48fc245939c0ea372c1afa
+      internalID: 1071113039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2369
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addcdb1e7b872b47a0aed3d3d191e19
+      internalID: -326374781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2368
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aff4cc1e381804f88d7726bdfee739
+      internalID: -1702340062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2369
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4c834af405a94dabe2d115364a0f4
+      internalID: -1267237627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2370
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e205aa1ff72c419b70366d6b39328
+      internalID: -66106738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2369
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5deef106b82e4ca2bf1a6e9dca48b
+      internalID: 1851895558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2368
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1248e92c52342440a7ff60d952e64d1
+      internalID: -200962489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2369
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b92825a21baa8d47afd0929399382bb
+      internalID: -606442705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2304
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b83be6ff044e543be4970ccef926f3
+      internalID: 848755214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2304
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28a9916f9373424481da46ffc7385de
+      internalID: 1503811499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2306
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9da58c1694474094f52bd5dc033bf
+      internalID: 375981793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2306
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786de7228aeba5d449b346ccc17d953a
+      internalID: 2140515067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2304
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb353b3820ef4cc4086b04870b534191
+      internalID: 942089525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2304
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a1bfefe0f0b242b62fbe4b97c88ce
+      internalID: -1903909848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_76
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2304
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7bae67fe218549a7a97f861d9b112
+      internalID: 891879381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_77
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2304
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e96e392c5784243962bb0cd8257964
+      internalID: -702262432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_78
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2304
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd73b2133285042bbef81bd7825cd6
+      internalID: -1389203362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2241
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2a0c8c7f021bc47a2f20105707d0b5
+      internalID: -112331891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2241
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dff6ee9927ca64aa50967f4b04c7e0
+      internalID: -1742480518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2240
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4125e179013d893499d9bb36f61fbf71
+      internalID: 1882168854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2240
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126d424f0a229d46b924d75c3235acb
+      internalID: 1328221889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2240
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df41926a6fb551468a8df6daa9b473c
+      internalID: 2007233739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2241
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3b78469edd2444383974c3714a5d3c
+      internalID: -1395533914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2240
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7dad9b3224ba440b4f546b38f2aba5
+      internalID: -886395238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2240
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4401770b92b410429236c3d645fb1f8
+      internalID: 10191725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2240
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e117ec28d8a447aa66e35e7a31b0d
+      internalID: -261688747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2176
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7164c0cd663eb4bbdbe2181dfcbe06
+      internalID: 221989100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2176
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3604be88c96cbb9468017e79a9a978bf
+      internalID: -1774625633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2178
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df2d873947628469a80585d8010026
+      internalID: -40752733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2178
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b54c64c249e14694d6eee508ee7b3
+      internalID: -256628486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2176
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e7ee07e428fcd48b3224da2b769c2b
+      internalID: 1526751996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2176
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f565fb69e81e4459a1ee97a3c2725a
+      internalID: 928436401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2176
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea69dbbf090ec3448156af728c1fb16
+      internalID: -138505950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2176
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a3bbb15d72734fbc5d97cb142c16c
+      internalID: 1668596418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2176
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a80b82eb724a348b9c5509502e0551
+      internalID: -204360779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2113
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d9bc389fdeb634687f25fe78759d1c
+      internalID: -1551714804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2112
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a3287d09d1a84d9f202e534d3a992
+      internalID: -1753432743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2112
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7005cfe6b064ca4299acf55b6e24740
+      internalID: 2014412752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2112
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83975e85809cf9459b4ef21ea624b84
+      internalID: 2054171352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2112
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2539a8ee69f44d8f229c3dbc1db5e
+      internalID: 868149845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2112
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c04f78a26c05a46847e20e5f83b411
+      internalID: 847262729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2048
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aacc8f4fe0fd343886a1ba84fa0d76
+      internalID: 229296915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2048
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a986507fad724492f3db896a3ff87
+      internalID: 2082150804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2048
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb761d6b3055e14891208073d853618
+      internalID: -1659193308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2048
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a596675445494c8f2b0b3405f18fd
+      internalID: 216553872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2048
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e27abe5baf11b4182a0583a9a7bb40
+      internalID: 127935118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2048
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fff2ddb8a430c45abd31ad42ebd1a6
+      internalID: -2084464217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1985
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754e5b52e713d0c4d9a3959c4e58e128
+      internalID: 1380258040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1985
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf50b2791f9b9409cb795e805dbe7b
+      internalID: 721570639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1985
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90359973ddfe3fa4baec5b32656bef1f
+      internalID: 1075246481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892033532b574074fb416b314d282520
+      internalID: -1303048371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_113
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1985
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bb457f58ec1243a0c15f7cf2d286b
+      internalID: 1152603241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1985
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc67e37b2d911a4ab32d837c9f7a176
+      internalID: 585110873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd36ba1e36ea3d4688d0620bba921d6
+      internalID: 10110132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1921
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b48a545ae7fe543aca1537ee28f940
+      internalID: 681624180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1921
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff4c1651b456c47a10578b90c535b6
+      internalID: 272335637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1921
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf3fcbc5b12ed24f80c09d2950eb0f9
+      internalID: -47631939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1921
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61577d4ff952b374294d54ae7f465094
+      internalID: -1350777756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1921
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b214d11d9dad2744fa08b9b8962ea366
+      internalID: -1173931276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1857
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfcac3ce0e32a046b38f6f081b9db3f
+      internalID: -969138665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1854
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893acb39d616a642bdce3e64e038da8
+      internalID: 1428839097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_123
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1854
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85de2f896e35f6468ee8c882947bb42
+      internalID: -1607523769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1854
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36272fba0b5e06f42bc486869a83d15a
+      internalID: 1641389452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_125
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1854
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cdea591dc399640b358b3de4c6776f
+      internalID: 2060982861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1854
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e78b506a9b494b8de9124de5d71c8
+      internalID: -1143209314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_127
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1854
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4e5a4d49c47545a6c0101ad4e641f
+      internalID: -1200072035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_128
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1854
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63052629d49ee843a9e47aa15990a06
+      internalID: -2105179407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_129
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1854
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3da4a2c06d11544953cb9ceaed1b79
+      internalID: -542315879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_130
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1854
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ffd8fb1785ff144ba3e6f99a236a49
+      internalID: 611080373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_131
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1854
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d13eb534cb1894f92cda68010981aa
+      internalID: -688527296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_132
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1854
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd81be50434b70d4aaaf6238e3b7e7f8
+      internalID: -1221515393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_133
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1854
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7da4a5d2d49b041b410558c05165ad
+      internalID: -712931858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1793
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe0e942b5aaf44880eab27700480f3
+      internalID: -875727022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1793
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5bd38d39dce82408247e8671dbbeaa
+      internalID: -1600972082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1793
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d98c31765b7de7459d1c3dbfd930420
+      internalID: -1159448102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1793
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ef3ba80172d845b744ceddb99c260
+      internalID: 1570590374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_138
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1793
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5af2a8f7a01941a89a79b7f5efaaa
+      internalID: 784921287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1793
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6abf8f1fd8e54bbad6c5ef90f1d44
+      internalID: -1052391248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1793
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025591ceac7499c479418af6fb8c8671
+      internalID: 346173518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1793
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49615fb1e9a72bb44a22c39210163f44
+      internalID: 636895615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1793
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddeee96a07e6f449c5349274c0fcd9
+      internalID: -502239074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1793
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da84493f0b2d44a9158572bbbe979a
+      internalID: 1647389039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1793
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0fbfeea4e16154895075495db907ce
+      internalID: -1582703008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1793
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363a896ec93710458884a4a90e97936
+      internalID: -647063643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1793
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f2e5383c2a9240b0351482c807ca7
+      internalID: 1562488852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1729
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dbb5e079ec22b4c8e6f88b5f18e6ea
+      internalID: -937043679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1729
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd72c75d91672b44acaecfbf067ebdf
+      internalID: -1850211177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1729
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73e3d7c9fc61fb47bcef1a84b25a979
+      internalID: 465712081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1729
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1e46534a0b6c408ded01b1551db74
+      internalID: -792728843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1729
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef6b9a319b09f47ac88683ddfca611
+      internalID: -916007683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_152
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1729
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d001deecb7a2ed46969a2e995601213
+      internalID: 1525268554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_153
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1729
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29d3d473152e24f9cc26f4b33be62c
+      internalID: -208319861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_154
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1729
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc803327b4cad446a6ef565ae8265a6
+      internalID: -619147512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1729
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2027b22ad187f94eb078b8414aa76f6
+      internalID: -1317691217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1729
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a6fa241c6217a41a1d4de104a9e295
+      internalID: -1100402629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1729
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cddf97b509b5b142a19b285ab47951e
+      internalID: 310139733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1729
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139aeac06079e9544bd75f7564518f12
+      internalID: -1565821495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1729
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99caeaf24da1d384ebd8bfad78a480fd
+      internalID: -765394688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_160
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2367dffa85285a4b9922f9693391968
+      internalID: -158997938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1665
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56daaaf19a3261644980e0c8e74d5218
+      internalID: -327441230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1665
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cd902134d8d74ca611547853a74ad
+      internalID: -369950251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1665
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814d2536d3cf6741bf66840de126634
+      internalID: 1049811475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1665
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad875ff7ce84fd3408c8eb0c5c7567b5
+      internalID: -47253781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1665
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6000168202e4548918ca75dd8a6f59
+      internalID: 1923773827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1665
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720930d473960f488d13c5830c9baad
+      internalID: 1125567055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_167
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1665
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c883d34db941499fc5c855637767d
+      internalID: -2063421519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1665
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82b80222c30ec43b1d39fbe3af4965
+      internalID: 1392155704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1665
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd90d34864141c459109d91266af5b2
+      internalID: 247985604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_170
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1665
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80107524db72a1c4cb007f530f5fc617
+      internalID: -1292670343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_171
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1665
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92395a0390fdd244eb8f2730c526f591
+      internalID: 54019958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1665
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1678e56630cf4524fbd67239ae38b21d
+      internalID: 2147051135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1601
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2160f352219bb3c4eb77fc9a2eefdacc
+      internalID: -452850932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1601
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab966c11b7f26824eb379d1b517fe1e9
+      internalID: 2030372698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1601
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546bfa78c9a967640b9a3a2aaa10f214
+      internalID: -555286753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1601
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c08e7bfa45ef448b652d0e21ad6834
+      internalID: 237500942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_177
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1601
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821a6fdf3f52144ab741409a4d3cc34
+      internalID: -1765374377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_178
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1599
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2544da30efcdce43959f39a59d23e2d
+      internalID: -1974451748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_279
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 466
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563b6de6e9f718a4ca6d06a43204b14e
+      internalID: -1176707280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_339
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257d1af0cb02b3a499eb0264873fbb3a
+      internalID: 1666940323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_344
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 148
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b65686f8174c540a6c9b208fafa4eb
+      internalID: 323388208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_354
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532cb0e6ae2a8dd4aaa552b9a31c9bd7
+      internalID: -969783285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young Scientist_359
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bff72f56ed87c47921692bf2e17c06
+      internalID: -1829821418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Young Scientist_0: -1257311084
+      Young Scientist_1: 1016213156
+      Young Scientist_10: 1321864718
+      Young Scientist_100: 2054171352
+      Young Scientist_101: 868149845
+      Young Scientist_102: 847262729
+      Young Scientist_103: 229296915
+      Young Scientist_104: 2082150804
+      Young Scientist_105: -1659193308
+      Young Scientist_106: 216553872
+      Young Scientist_107: 127935118
+      Young Scientist_108: -2084464217
+      Young Scientist_109: 1380258040
+      Young Scientist_11: 1463803304
+      Young Scientist_110: 721570639
+      Young Scientist_111: 1075246481
+      Young Scientist_112: -1303048371
+      Young Scientist_113: 1152603241
+      Young Scientist_114: 585110873
+      Young Scientist_115: 10110132
+      Young Scientist_116: 681624180
+      Young Scientist_117: 272335637
+      Young Scientist_118: -47631939
+      Young Scientist_119: -1350777756
+      Young Scientist_12: -1644888748
+      Young Scientist_120: -1173931276
+      Young Scientist_121: -969138665
+      Young Scientist_122: 1428839097
+      Young Scientist_123: -1607523769
+      Young Scientist_124: 1641389452
+      Young Scientist_125: 2060982861
+      Young Scientist_126: -1143209314
+      Young Scientist_127: -1200072035
+      Young Scientist_128: -2105179407
+      Young Scientist_129: -542315879
+      Young Scientist_13: 233208822
+      Young Scientist_130: 611080373
+      Young Scientist_131: -688527296
+      Young Scientist_132: -1221515393
+      Young Scientist_133: -712931858
+      Young Scientist_134: -875727022
+      Young Scientist_135: -1600972082
+      Young Scientist_136: -1159448102
+      Young Scientist_137: 1570590374
+      Young Scientist_138: 784921287
+      Young Scientist_139: -1052391248
+      Young Scientist_14: -324557211
+      Young Scientist_140: 346173518
+      Young Scientist_141: 636895615
+      Young Scientist_142: -502239074
+      Young Scientist_143: 1647389039
+      Young Scientist_144: -1582703008
+      Young Scientist_145: -647063643
+      Young Scientist_146: 1562488852
+      Young Scientist_147: -937043679
+      Young Scientist_148: -1850211177
+      Young Scientist_149: 465712081
+      Young Scientist_15: -102864898
+      Young Scientist_150: -792728843
+      Young Scientist_151: -916007683
+      Young Scientist_152: 1525268554
+      Young Scientist_153: -208319861
+      Young Scientist_154: -619147512
+      Young Scientist_155: -1317691217
+      Young Scientist_156: -1100402629
+      Young Scientist_157: 310139733
+      Young Scientist_158: -1565821495
+      Young Scientist_159: -765394688
+      Young Scientist_16: -322846745
+      Young Scientist_160: -158997938
+      Young Scientist_161: -327441230
+      Young Scientist_162: -369950251
+      Young Scientist_163: 1049811475
+      Young Scientist_164: -47253781
+      Young Scientist_165: 1923773827
+      Young Scientist_166: 1125567055
+      Young Scientist_167: -2063421519
+      Young Scientist_168: 1392155704
+      Young Scientist_169: 247985604
+      Young Scientist_17: 1561734342
+      Young Scientist_170: -1292670343
+      Young Scientist_171: 54019958
+      Young Scientist_172: 2147051135
+      Young Scientist_173: -452850932
+      Young Scientist_174: 2030372698
+      Young Scientist_175: -555286753
+      Young Scientist_176: 237500942
+      Young Scientist_177: -1765374377
+      Young Scientist_178: -1974451748
+      Young Scientist_179: 725900738
+      Young Scientist_18: -1263570930
+      Young Scientist_180: -1780385881
+      Young Scientist_181: 566014852
+      Young Scientist_182: 1792344338
+      Young Scientist_183: -93570609
+      Young Scientist_184: 1473822212
+      Young Scientist_185: -134193098
+      Young Scientist_186: -709326138
+      Young Scientist_187: -1592659792
+      Young Scientist_188: -2135362539
+      Young Scientist_189: -485020359
+      Young Scientist_19: 347953996
+      Young Scientist_190: 2035350933
+      Young Scientist_191: 1031802793
+      Young Scientist_192: 1578049320
+      Young Scientist_193: -792383893
+      Young Scientist_194: -328784863
+      Young Scientist_195: 1651709772
+      Young Scientist_196: -1552821833
+      Young Scientist_197: -1975092060
+      Young Scientist_198: -912489135
+      Young Scientist_199: -1825165001
+      Young Scientist_2: -503929068
+      Young Scientist_20: 1571663265
+      Young Scientist_200: 1162399189
+      Young Scientist_201: -1007887950
+      Young Scientist_202: -542610201
+      Young Scientist_203: 399380957
+      Young Scientist_204: -1255191675
+      Young Scientist_205: 1025860001
+      Young Scientist_206: -238056749
+      Young Scientist_207: 1756405955
+      Young Scientist_208: -1089302561
+      Young Scientist_209: 1290822754
+      Young Scientist_21: -1801662236
+      Young Scientist_210: 364683274
+      Young Scientist_211: -1153063123
+      Young Scientist_212: -1762443847
+      Young Scientist_213: 1753101213
+      Young Scientist_214: 183263515
+      Young Scientist_215: 1680434643
+      Young Scientist_216: -1881515585
+      Young Scientist_217: 1264052563
+      Young Scientist_218: 867692873
+      Young Scientist_219: -641882301
+      Young Scientist_22: 1808448463
+      Young Scientist_220: 1398233861
+      Young Scientist_221: 1270130110
+      Young Scientist_222: 1013560817
+      Young Scientist_223: 603968100
+      Young Scientist_224: 2034251418
+      Young Scientist_225: 1255205693
+      Young Scientist_226: -487778192
+      Young Scientist_227: -145549428
+      Young Scientist_228: 1725209039
+      Young Scientist_229: 139592394
+      Young Scientist_23: 774356700
+      Young Scientist_230: 1449977578
+      Young Scientist_231: 1554689658
+      Young Scientist_232: 1899479483
+      Young Scientist_233: -835029264
+      Young Scientist_234: -370891449
+      Young Scientist_235: -55032869
+      Young Scientist_236: 669367475
+      Young Scientist_237: 305293224
+      Young Scientist_238: 1116758959
+      Young Scientist_239: 1368355045
+      Young Scientist_24: -266150174
+      Young Scientist_240: -266840748
+      Young Scientist_241: 2100107670
+      Young Scientist_242: 102321502
+      Young Scientist_243: 1418518747
+      Young Scientist_244: 846266498
+      Young Scientist_245: 676284418
+      Young Scientist_246: -1438626368
+      Young Scientist_247: -1626094358
+      Young Scientist_248: -1461087503
+      Young Scientist_249: 1042965155
+      Young Scientist_25: -255868890
+      Young Scientist_250: 1419812418
+      Young Scientist_251: -1382709820
+      Young Scientist_252: 613489457
+      Young Scientist_253: -1742374592
+      Young Scientist_254: -1317780799
+      Young Scientist_255: -2027520363
+      Young Scientist_256: -679888584
+      Young Scientist_257: -794408024
+      Young Scientist_258: -424782529
+      Young Scientist_259: -1614772275
+      Young Scientist_26: -947295379
+      Young Scientist_260: -2030655591
+      Young Scientist_261: 1090657589
+      Young Scientist_262: 1025954024
+      Young Scientist_263: -499849302
+      Young Scientist_264: 1425044822
+      Young Scientist_265: 537919401
+      Young Scientist_266: 2033965225
+      Young Scientist_267: -663873378
+      Young Scientist_268: 1818020074
+      Young Scientist_269: -1030044074
+      Young Scientist_27: -29830898
+      Young Scientist_270: 955221004
+      Young Scientist_271: 1154477924
+      Young Scientist_272: 1341056215
+      Young Scientist_273: -260894613
+      Young Scientist_274: -2063550364
+      Young Scientist_275: -182313270
+      Young Scientist_276: 2128451055
+      Young Scientist_277: -1970009671
+      Young Scientist_278: 1135574086
+      Young Scientist_279: -1176707280
+      Young Scientist_28: 638537695
+      Young Scientist_280: 311077355
+      Young Scientist_281: -2145679373
+      Young Scientist_282: 1454200237
+      Young Scientist_283: 513342694
+      Young Scientist_284: 1785059957
+      Young Scientist_285: 721084971
+      Young Scientist_286: -509677660
+      Young Scientist_287: -485703868
+      Young Scientist_288: -1739177356
+      Young Scientist_289: -1448725941
+      Young Scientist_29: -1973230718
+      Young Scientist_290: 1205656570
+      Young Scientist_291: -997213467
+      Young Scientist_292: 2088452265
+      Young Scientist_293: 986099341
+      Young Scientist_294: -819203932
+      Young Scientist_295: -1112310582
+      Young Scientist_296: 1969974197
+      Young Scientist_297: -192914935
+      Young Scientist_298: 1649283321
+      Young Scientist_299: 1440152238
+      Young Scientist_3: 1577161620
+      Young Scientist_30: -744300187
+      Young Scientist_300: -1529164492
+      Young Scientist_301: 1908820765
+      Young Scientist_302: 494342532
+      Young Scientist_303: 35176791
+      Young Scientist_304: 1701525801
+      Young Scientist_305: -1364265961
+      Young Scientist_306: 275273702
+      Young Scientist_307: 1185802810
+      Young Scientist_308: -220424426
+      Young Scientist_309: 1537049232
+      Young Scientist_31: 2118909573
+      Young Scientist_310: 471713756
+      Young Scientist_311: 1208636290
+      Young Scientist_312: 85094372
+      Young Scientist_313: 1011356572
+      Young Scientist_314: 1435178754
+      Young Scientist_315: -444376125
+      Young Scientist_316: -2011224963
+      Young Scientist_317: 1937896497
+      Young Scientist_318: -64986630
+      Young Scientist_319: -2035175314
+      Young Scientist_32: 1618108709
+      Young Scientist_320: 525641548
+      Young Scientist_321: 1446305340
+      Young Scientist_322: 1318652054
+      Young Scientist_323: 121687359
+      Young Scientist_324: 1325482646
+      Young Scientist_325: -1630269544
+      Young Scientist_326: -23245604
+      Young Scientist_327: -1597903672
+      Young Scientist_328: -1509403058
+      Young Scientist_329: -1403883587
+      Young Scientist_33: 375402761
+      Young Scientist_330: 2049574229
+      Young Scientist_331: 9680680
+      Young Scientist_332: 2023511444
+      Young Scientist_333: -1298207818
+      Young Scientist_334: -1674886186
+      Young Scientist_335: 1018566985
+      Young Scientist_336: -1312376863
+      Young Scientist_337: 789855605
+      Young Scientist_338: -129565945
+      Young Scientist_339: 1666940323
+      Young Scientist_34: -979973256
+      Young Scientist_340: -1107370968
+      Young Scientist_341: -712176855
+      Young Scientist_342: 364925132
+      Young Scientist_343: 1756085501
+      Young Scientist_344: 323388208
+      Young Scientist_345: 70400261
+      Young Scientist_346: 806942552
+      Young Scientist_347: 1762387007
+      Young Scientist_348: -1066275988
+      Young Scientist_349: 1482708046
+      Young Scientist_35: -1983626126
+      Young Scientist_350: 1890261571
+      Young Scientist_351: -325944984
+      Young Scientist_352: 528105344
+      Young Scientist_353: -376914084
+      Young Scientist_354: -969783285
+      Young Scientist_355: 1127010502
+      Young Scientist_356: 1331103779
+      Young Scientist_357: 585222720
+      Young Scientist_358: 271996956
+      Young Scientist_359: -1829821418
+      Young Scientist_36: -123682554
+      Young Scientist_37: 1178174544
+      Young Scientist_38: 1272047779
+      Young Scientist_39: -1747380715
+      Young Scientist_4: -115334537
+      Young Scientist_40: -556668129
+      Young Scientist_41: 1478894348
+      Young Scientist_42: -467942184
+      Young Scientist_43: -1905869701
+      Young Scientist_44: -1721476637
+      Young Scientist_45: 877849865
+      Young Scientist_46: -492091875
+      Young Scientist_47: 2085507349
+      Young Scientist_48: 1201177987
+      Young Scientist_49: 794404877
+      Young Scientist_5: 1923744338
+      Young Scientist_50: 1898907658
+      Young Scientist_51: 2019012542
+      Young Scientist_52: -120927663
+      Young Scientist_53: -1861366032
+      Young Scientist_54: -1950215216
+      Young Scientist_55: 1924202970
+      Young Scientist_56: 1564147774
+      Young Scientist_57: 1799809236
+      Young Scientist_58: -1243660980
+      Young Scientist_59: 1104579227
+      Young Scientist_6: 358887893
+      Young Scientist_60: -1733861703
+      Young Scientist_61: 629652860
+      Young Scientist_62: 1071113039
+      Young Scientist_63: -326374781
+      Young Scientist_64: -1702340062
+      Young Scientist_65: -1267237627
+      Young Scientist_66: -66106738
+      Young Scientist_67: 1851895558
+      Young Scientist_68: -200962489
+      Young Scientist_69: -606442705
+      Young Scientist_7: -777378304
+      Young Scientist_70: 848755214
+      Young Scientist_71: 1503811499
+      Young Scientist_72: 375981793
+      Young Scientist_73: 2140515067
+      Young Scientist_74: 942089525
+      Young Scientist_75: -1903909848
+      Young Scientist_76: 891879381
+      Young Scientist_77: -702262432
+      Young Scientist_78: -1389203362
+      Young Scientist_79: -112331891
+      Young Scientist_8: 627269068
+      Young Scientist_80: -1742480518
+      Young Scientist_81: 1882168854
+      Young Scientist_82: 1328221889
+      Young Scientist_83: 2007233739
+      Young Scientist_84: -1395533914
+      Young Scientist_85: -886395238
+      Young Scientist_86: 10191725
+      Young Scientist_87: -261688747
+      Young Scientist_88: 221989100
+      Young Scientist_89: -1774625633
+      Young Scientist_9: 1183214281
+      Young Scientist_90: -40752733
+      Young Scientist_91: -256628486
+      Young Scientist_92: 1526751996
+      Young Scientist_93: 928436401
+      Young Scientist_94: -138505950
+      Young Scientist_95: 1668596418
+      Young Scientist_96: -204360779
+      Young Scientist_97: -1551714804
+      Young Scientist_98: -1753432743
+      Young Scientist_99: 2014412752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

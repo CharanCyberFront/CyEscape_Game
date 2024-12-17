@@ -1,0 +1,8047 @@
+fileFormatVersion: 2
+guid: 2e909e6674533477ab8e3cb4e46aa81b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoboCop_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2879
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b294ab5c6f044da889d88890e7d481
+      internalID: -1547250669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2879
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e0de762bdb4c26ba6f5027ada3063
+      internalID: 905213971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2879
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af09f508c5e94079a0db0b245554924
+      internalID: -1526749308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2879
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03fd1f9cbdf42fd9b531d90dac73c8
+      internalID: -658760204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2879
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f14a36225aab4a70a8f063704b624e7
+      internalID: -1041824529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2879
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0869f267a343ee8322dd5a591061c
+      internalID: -1958779688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2879
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6873759b5a594ca4a7e97421429c13b
+      internalID: 1083958721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2899
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b85b043774174808a22cf6d25856aa5
+      internalID: 332568175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2816
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaf4793d6f1f4f1188c14da06d4dc27
+      internalID: 1227133697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2816
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e02e9e16cac4f17870023d12c0b279
+      internalID: 730972344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2816
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dff7a9790f34a9388277d6f1b73403
+      internalID: -1238782826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2816
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb1dbbe504541c9afa58074ef00233
+      internalID: -488827033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2816
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a9d8213fff4c10a8b03991a58d161
+      internalID: 329530226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2816
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c6bd4008c4344148a203cc20d5eb49
+      internalID: 203910386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2816
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bd7b9c704f84fd7b8bb47c13328a93
+      internalID: -638824344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2751
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6cd0843b0246ee83f731baf95f754
+      internalID: 1647511841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2751
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d617d49883e94632b8a87e4565b1e8e
+      internalID: -589372007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2751
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01788d571ab5d47c4b7917c3fb1890a7
+      internalID: 1347483082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2751
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db78a186d074486a2b261802d293a0
+      internalID: 382780343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2751
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a1d0e57b4b43efbc6f9b41bd6ea21
+      internalID: 780006039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2751
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecabd0748ac72429ab6e8e807c8e83fd
+      internalID: 566192395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2751
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc2f57c563b4ec8918b16c26f24c15
+      internalID: -1365650798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2688
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d337182e3c2eb482c9246da391efd06a
+      internalID: -1427880017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2688
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c6ad9eaabe407db8bb66ec957ab8f
+      internalID: -444540498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2688
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723eed145f8f04844a5fc7da9f705e1e
+      internalID: -1998504045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2688
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ccda5ef5c754d3d8f319f3e1122551
+      internalID: -614587571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2688
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf7bb82e41a4229bd5978e9c36ce47
+      internalID: 262747320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2688
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b62a135f7d6043f59cb8d930b8aab2e
+      internalID: -564869688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2688
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a226601fbd4d978bcdcfc6e2d228c
+      internalID: -349321555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2623
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9225c64d2be454fae27626117c3465
+      internalID: -1229184538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2623
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1c0e82d5664832aa3e618a5858bc1
+      internalID: -1505138673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2623
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc81865b3b6c4f44872524907ac7b7e
+      internalID: -702011522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2623
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af17c418dc6c45baa11f1512cbc0803
+      internalID: -784510683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2623
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564163225d1f8499dbacdcb55e1bdba8
+      internalID: 1576332768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2623
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c866f83a24b44054aa87fec7f634647
+      internalID: -2117066927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2623
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108140d11bd6494abf8fb73a33df206
+      internalID: 1054343706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_36
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2623
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275134e9b9bd84566a97e6bca803b167
+      internalID: -885380619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2560
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effe57bc2ba4457da5252ea97c861bf
+      internalID: -1682719433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2560
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3704eec1c27b4d02b5f84683f3c8e59
+      internalID: -1036877321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2560
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44ca71971424bc8a21086c1419fd5c
+      internalID: -1531035866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2560
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774043c58f267404994116a6ed96a80e
+      internalID: 1161192104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2560
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d7796452eb4f07b55f4d141495ac3
+      internalID: 1155642814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2560
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5f66e712c14b1f8cd1e19b4be5ae8
+      internalID: 1796264220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2560
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e089b568ebdd4fedb4afb9930cdd740
+      internalID: -30436844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2560
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b53a8ab483a4b13a74e09e959cdc5e
+      internalID: -1860263689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2496
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6973d98226347a08c8a8821770eff5
+      internalID: -1221103762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2497
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761f03f514804a9fa03e826a55eaca2
+      internalID: 1162731674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2497
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138fb556b35094b61bbc3c3969be21a5
+      internalID: -1429167707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2497
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e7bde887eb42e2bbbad1c8ec56c96
+      internalID: 1698470958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2497
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2242d19d2b14d41ab86b5bed8e0b0526
+      internalID: 12114927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2497
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f1288fc31d442a9623420e0ba25b6
+      internalID: -1302128930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2497
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d282bf36a82294451843b75785974b99
+      internalID: 1449278838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2497
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b9af85fa4434e929227678dc4e19bc
+      internalID: 1079394032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2432
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a8e9b7db57403fa23227d737e5c16
+      internalID: -1688308962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2432
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445aae85d14a49b485d3530206afa1c
+      internalID: 1687857770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2432
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afce40210aa4c95b8a1eb1a26961b9
+      internalID: 1670804094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2432
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5469d56e514751a50ff16501e1c1f
+      internalID: -387479892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2432
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe3d1fed9934d32ab75c63e7542d3f
+      internalID: 57821636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2432
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff05592e7354f00ae84483bd828058
+      internalID: -1225462558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2432
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adeca395efb44d2fa7d678ba6d84de7
+      internalID: -1555215812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2432
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69abda8032c4a8f95ccd266cdffed1
+      internalID: -263732461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2368
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6a746401854d78bb2f9a6877b743b
+      internalID: 2997276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2369
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea5fc9d5a3f4291bb8ea36c78fae27
+      internalID: -83073955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2368
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201df5e0a5134f059828f1e5fb22a55
+      internalID: -135482214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2368
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed303ad85c4f4077a51fbb9ecf6dd9a
+      internalID: 1578368366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2368
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f25fa460d9e43a0871cda613866172
+      internalID: -851563251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2369
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1efbfca10ce4200ae40058efb60f58
+      internalID: 981348406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2368
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eabc7f2119904977be18684fbd128c3
+      internalID: 412351488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2368
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348aed9c544034f5d8163920c06a94b7
+      internalID: 814124231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2368
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a75677a17cf4ccc9cc05edd704e1fc
+      internalID: -1333733026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2304
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce16a645bfb7411e82d09c506e78e2b
+      internalID: -56518359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2304
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef388d9426947c9bc3256dca6daeef
+      internalID: -1646968607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2304
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ca4cf881094cd29895ab32bf5792a
+      internalID: -1336152131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2304
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfc314d9c9c46d3bd8fcfdc333b5b9
+      internalID: -1260948302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2304
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dbd9d38c32a488ba9772ad54b30ba7
+      internalID: -558022449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2304
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594542f62844845cc9a5550fa228b623
+      internalID: -942943291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2304
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036dd94383d349e59043c49d386285e
+      internalID: 365685458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2304
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf0a634f6bc4513a62f71a390c2f81
+      internalID: 61282153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_78
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2304
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7600c242025c46b9b202185d087198f
+      internalID: -2026958706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2240
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29c5f3f67062498ca01353ca53d6111
+      internalID: -1886059374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2240
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d6b8d430b84b2f8d3c5c19b335fdc
+      internalID: 1180322097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2240
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d6b7f2567b437780dde2c583a020a
+      internalID: 1456433352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2240
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f621e48a5e004c3b95a9aecdcbb5b6b
+      internalID: 964050921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2240
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09345d7ab8972459da58b383e6f021ec
+      internalID: 413793252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2240
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33fcef65a2874a5baafb4a22bd9d567
+      internalID: 1657092782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_85
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2240
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26c4851a60f4538a04ba4887ec38e7
+      internalID: 751253146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2240
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5f09dc87594059a63a0c078fb027f
+      internalID: -1197921617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2240
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d9fc86ff5a4435937b747f744413c
+      internalID: 1859650721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2176
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6931519cc99b543858750ca79cd22985
+      internalID: -1717466790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2176
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00993dfd646294943b21563804ac5995
+      internalID: 476938713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_90
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2176
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e790aef0414764d528a94f888fb5018c
+      internalID: -1917036976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2176
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dce2ace89e548f58bfe83d2b007f7c
+      internalID: 837695792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2176
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9d0b749b7b4511aac8587d24dfc65
+      internalID: -1278252798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2176
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f070d60e955b4fbaaeab21ae3b036ef
+      internalID: -967467350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2176
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db07f1207c354380bae56e385d48338
+      internalID: 465581512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2176
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb6b659960940e492ca5924f5f7d7d
+      internalID: 1284765263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2176
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4491e3df9214e3b9b675576e23d64d
+      internalID: 712199457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2112
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf934442a96a490e92464805f1e0ea3
+      internalID: -1419574376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2110
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affa6891ee384ddb849b9afe2631a92
+      internalID: 1153021327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2110
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4de9a51468b4620b104e86b45706e6
+      internalID: 649324272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2110
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34cda0c61a4c4a2d8bf63719159309c
+      internalID: -1666291355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2110
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee574ae9268c4ed5a9a6266819c610c
+      internalID: 859139767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2110
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f158d7689444881ac0c86955571e9c
+      internalID: -471623955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2048
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61e013fa0e5487c8032d332d628b5a
+      internalID: 605466387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2048
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7223ef2d23c6480c98f8e9f1531406e
+      internalID: -1848061338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2048
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7012ed0aaaba44751b3d0b254b4a3d0a
+      internalID: -1958992472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2048
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66673812e0944b083a345c21f69ef0
+      internalID: 1093499266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2048
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e9fc5be30f4edb8ffc7ea8e0a0a43
+      internalID: 338742549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2048
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa85aa4278e741e6af07623bd735a8f
+      internalID: 923845348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1984
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5cd33b136c41b8bd1dbe0e53d811a
+      internalID: 1175876754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1984
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275b5bbe09c54ca6a8e7f410eaa898d
+      internalID: 1231241552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1984
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb68c29eb57466a80d3e15b25080d9
+      internalID: 1039248838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235c42b1e1ae4412a5ee7538f23cccf
+      internalID: -1209152805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_113
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1984
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076d447f1cbf485fa3b00973063cad3
+      internalID: -319407096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1984
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b483dcc6bf94d6080e61cf089d011c
+      internalID: -514899575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1921
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa89b42769041e3b8547e7b3365c36
+      internalID: -2079107225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1921
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976370e708c604a82968caa1c5f1bcae
+      internalID: -623817845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1921
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f56ef4d920b4f6bad4ce1a185515de
+      internalID: 1783196827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1921
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef1a5d95d1b4e2e85c0ac6a522924e
+      internalID: 376908030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1921
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b29551fa798a4e168fa1c494d5c27e3
+      internalID: -63589225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1921
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c50d2423954973b58fb05b8e8bea5
+      internalID: 312464385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1856
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0505fddc74444368a18eef4a41f3563
+      internalID: 1041290664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1854
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c35fba75e6b44fda0096f43e8eda3e
+      internalID: -612104107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_123
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1854
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10605e7b956b241f1a20401a096da860
+      internalID: 52783409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1854
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41715638e975f4156b2686349907f29f
+      internalID: 5778573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1854
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7d7ef4ad134e76a89534a421c764e
+      internalID: -1434630703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_126
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1854
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe676794ce68746dea66209fc587c9ca
+      internalID: 189870997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1854
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0297eaf3d854d058f1e84c45cb4843
+      internalID: 1730434427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_128
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1854
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22dd81643b284f25ba6cec189f8e31e
+      internalID: -908076934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_129
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1854
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e7a46346db4c3694bf14877cd73e5
+      internalID: 1204874187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_130
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1854
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392d43dec4314997b1e67109a33841f
+      internalID: -1770701551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_131
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1854
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d58ede5d5284bfab382abc4efe98c7
+      internalID: 2011794238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_132
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1854
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38bd6aa904141ce880387c4911ab1a
+      internalID: -1035976518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_133
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1854
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f9d94d68bf3440abfed29967c1dbd8
+      internalID: 328432809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_134
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1793
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900cdb7e6543845d8a67cb1d7bc57341
+      internalID: -1487156332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1793
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de244d8d863994e34a2a3cc204393bfe
+      internalID: -1983586699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1793
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70001b92a5bd44a14b82fd318e83d69a
+      internalID: -1940898035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1793
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7588c9e804d4245a91ab1d3c0c29b4
+      internalID: 60499932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_138
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1793
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d2a03b03f5a48f8bec44b5089f4e94
+      internalID: -847997708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1793
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21d8fc22911464ab562e9fc1d46856
+      internalID: 856002036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1793
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29d0bceaf1942bf827094630177d49
+      internalID: -1395446670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1793
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203c7f90a0844c28be3cedc4820846c
+      internalID: -855101299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1793
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c67c0705014edd97b20b2fffb40a2
+      internalID: -1640428926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1793
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240142a39f3144c2b4bf4bdb97b1c41
+      internalID: 2009245187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1793
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa93d43649364932afc14fad1c7798c
+      internalID: 8371044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1793
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68269f2fa7e5e494d8d2bba7c8f3bc7f
+      internalID: -1952901479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1793
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7628e64310849a6bd1fb05f26ebf6d
+      internalID: 380969939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1728
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6007a1ad4c4ed1b76e2e66e93b2de
+      internalID: 702886578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1729
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d1d97a647b4dfd8c39f51115bb522
+      internalID: 1913239089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1729
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576cf7317df14cd4bc93964bfd10410
+      internalID: 874627600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1728
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3bf73c7eaa4b329aa9da94ccfaac2
+      internalID: -917632573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1728
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f879b17f65f46559875842d84bc9b2
+      internalID: -970564683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_152
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5b0f701f96d458883727282e0adc06
+      internalID: 1058342185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_153
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1728
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5994c170969c4a7fb24159e8aa3cd7f
+      internalID: -553644983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_154
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1728
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861e4c14f9c04db784611f8f5d33d80
+      internalID: -631509800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b31469207343edaa53322582e3be2
+      internalID: 1098852210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16119ec664f240e3ab73d785ba5f89c
+      internalID: -1184126177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee1499d1475142e0bd1e2d575a44964
+      internalID: 118146632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_158
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1728
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fcc0391d1c94a66a128205af5e72db
+      internalID: 1457121707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1728
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad914fd05985a4b80a3f3f2f70fae853
+      internalID: 1186475832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_160
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1665
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d918df81ae7d4acdaa9866434960967
+      internalID: -159891884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_161
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1665
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ef9a8266d845e3a4d41f9c0a50f74
+      internalID: 1784143112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1665
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da75cf12f2cc47ac9ad881f0fc31451
+      internalID: -1506128566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1665
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a4bc6dd98084963843dd2582005b90
+      internalID: -198265774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1665
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28bf3a523772490ebacef782586aabb
+      internalID: -2051049121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_165
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1665
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7968c1e469434078af9d8f6ab83b554
+      internalID: -359055375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1665
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be0a37e6065473d9d35a0a5e4c3cfa
+      internalID: -518245932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_167
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1665
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d439e445af49c2ac1857dac9ad37a
+      internalID: -95750665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1665
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6687c978b57d846a08db88762e947c6a
+      internalID: 866009439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1665
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637919f30f0fc45048abac1c53cd1c7c
+      internalID: 437086463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_170
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1665
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490c4ea30f9f4483b506e1f156ede6b
+      internalID: 258522301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_171
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1665
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0101aa86454ccfaf971a6c1949e4b
+      internalID: -529853242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1665
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61df19d474e34499da504f376b93db76
+      internalID: 434373438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefddcb245587424397754ecb2c5e926
+      internalID: 1425879028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_174
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1600
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c407c7cd92a4183b7aeb18bbc554ce
+      internalID: 329846160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1600
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f3e2ec05ca43d1983f3beb83fdb37
+      internalID: 1504056250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1601
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3556e06d36f374dcc88eaa4e7be15d3c
+      internalID: 240468767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_177
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1601
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f41d15de4649809e8e023dbb89736
+      internalID: 1574012620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_178
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1600
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2b24290b06647f5b85a0651d40089e
+      internalID: 1938849354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_179
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1538
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c9222c322a4a8bad1ad42ae9b5da3
+      internalID: 254178494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_180
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1537
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e638b20517541cd95004c78b0d6d5f
+      internalID: -2054604494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_181
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1541
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6705f58267b4290a207a3ee129c58d
+      internalID: -1487415613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_182
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1538
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6df117b2644312a2db1b0fbd2fd27
+      internalID: 2143606041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_183
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1537
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab165a6c21e47f0b47e980d13dff78
+      internalID: 301491428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_184
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1541
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08fd83360a664645b8f1a2754d50cb3
+      internalID: -2056880316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1473
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9167ea8d184f4490b80e26b773f54a59
+      internalID: 1922895684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_186
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1473
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8890c1dd1f384f5580614e02351b20c
+      internalID: 726844588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_187
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1473
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ec0b77b6c04e0a9ff914e95ff3300
+      internalID: -1689430376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_188
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1473
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e1b60186f944e0978f5b7004ad963
+      internalID: -171245205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_189
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1409
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65188e3d2732e4d3fb1baee26711db82
+      internalID: 84240977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_190
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1409
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0d3137493545569cd11cda7bf660a
+      internalID: -1570175389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_191
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1409
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f98cb5373f64dcdac12c300ec131ea
+      internalID: 865519797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_192
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1409
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78782685b05e4995b42b18b2abefdcc
+      internalID: 1399689705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1345
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fb27778f12649b2a8f297fee16563b
+      internalID: 566238287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1345
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f1810491704918ba9072634ac419a
+      internalID: -1684730317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_195
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1344
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59589b1dc34411c888949c3fcd663a
+      internalID: 1118540624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_196
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1344
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191985ebca3004744833adbf0a40539c
+      internalID: 292046917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_197
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1281
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee0de12297543099aef02694c88969
+      internalID: -167991176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_198
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1281
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d61180fd6e27412c9a09fbdaf2b3578
+      internalID: 877834741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_199
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1281
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16970080596c14c3e95c5dc47da778b4
+      internalID: 703664025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_200
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510620e956cd5425f86c679e584485b4
+      internalID: 953420010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1218
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c58b7b210d48d08449b77c242c6f1
+      internalID: -517398566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_202
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1218
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565643cfd6b644578d5b82297873aab
+      internalID: -2136637463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_203
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1218
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024737a858554c08bbbae700bb07b5a
+      internalID: 1484145098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_204
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1225
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9d25ca3e1ec403480b83e7dc0d3624
+      internalID: 1755437912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_205
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1220
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497cf9af9911f41c19ff31d09587dbbe
+      internalID: 517760785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_206
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1153
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b099a8141ac14b319c88c3bc77cbd76
+      internalID: -873506325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_207
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1153
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bd1203d4f64a7e99c07bb362c1b95
+      internalID: 1677917975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_208
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1154
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d103309925b49bf94aef14bc363645
+      internalID: 1190975271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_209
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1156
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885510f1f1264563bd126b636a9e0e7
+      internalID: -924520349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_210
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1153
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0bd55efec5f423bb3fc8002d89fd19
+      internalID: -1357492588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1090
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df86eed1672449c81b5ce910b6cb3b
+      internalID: 505560874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_212
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1090
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7452594404492d918d8e76bb8a295
+      internalID: 1577990095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_213
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1091
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d998ac3dcd4b4dc1aa00bbf19e9c337
+      internalID: 9176771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_214
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1095
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736a755ff3984bc485547628b6ce022
+      internalID: 708708058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_215
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1092
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4784a839d19c74bbd9508ee92e64dc95
+      internalID: -755288902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_216
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1025
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b68eafbedb4dc7b872b1125f9bfce
+      internalID: 399442179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_217
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1025
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4c7c81e00c442ca5db03b52007bbb
+      internalID: 1595876651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_218
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1026
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9470f509e377c469fb607e3d3af7a4f1
+      internalID: -580267693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_219
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1028
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0064d9a8b644cdda21b248357d1361
+      internalID: 1804855845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_220
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1025
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe2be1d875b49e0aae1b461eaf2513
+      internalID: -655028638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_221
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 960
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934db8bc8c58d43fda315d68f5f42b28
+      internalID: 138147019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 960
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ccc8388edd4d5d9140389e82f6b44
+      internalID: 160443322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_223
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 970
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b30c1487e584ad483f0d740e68e563
+      internalID: -1553454179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 960
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3fafe88a1f443a9685e710f19fa8d
+      internalID: 2024366519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_225
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 960
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcd734d220164ee18ff99ccfa2f3f3f
+      internalID: 447405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_226
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 960
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39edbc6d0b9e949608130dc004a6c869
+      internalID: 2126539039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_227
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 898
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05830c0646f0c455f993ca2e0034f3ee
+      internalID: -179147073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_228
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 897
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c9aa80341c74c749765562b5c5d92f
+      internalID: 1073429443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_229
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 898
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95fbf88a060f43caa06b1ba9556ded6
+      internalID: 467567098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_230
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 897
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839e3059a3e244a6882532382d04bf3c
+      internalID: -581689192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_231
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 897
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1fbea5611f471cb339e21b98f820f
+      internalID: 1145621651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_232
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 897
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e119a65fae64175a8c856cdf039a0c
+      internalID: -435081462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_233
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde7921d534b4128adc87e05f3114c1
+      internalID: -1834705538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_234
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8db7328080544461823b6167086f1a1
+      internalID: 841349080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_235
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 832
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c0f592707c24a5282e44f5e2d73e6c
+      internalID: 2091598549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_236
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 832
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29186fa54124c2f955f5eaff1c9653
+      internalID: -984447276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_237
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 832
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb15cb7d1a5743f58e3c6683a3a604c
+      internalID: 692896454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_238
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 832
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c63526d90c479a8cdf6225d34e67f
+      internalID: 1104263507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_239
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96e3b7608b1845de90b97261c961348
+      internalID: -353365787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_240
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 769
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba1f090d1e74e5db74ba9c872b88f3
+      internalID: -1475432700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_241
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 771
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79e3ae116a94f0b9392f2f210a3294
+      internalID: 2033224203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_242
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e910126b4bbd4dcb9986acac7db6df0
+      internalID: -1365846139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_243
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 769
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eac3d6878944b53ad2918aa52dbe03
+      internalID: -1984078509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_244
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 769
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86daa64e7a7e482d9f7e73bd5fbb489
+      internalID: 359390572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_245
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 706
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc339546f8246deb6065bdd4bb902a
+      internalID: -191870755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_246
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 703
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b688750d09e4397b336ccf5be9c532
+      internalID: -367092038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_247
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 703
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935fd74b87da4e6db7390f06d5cbedd
+      internalID: 1182390470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_248
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 703
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da456861c04463084fa4a0427eac7b
+      internalID: 1593106066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_249
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472b45f62c3574b988a4138952bd9b7c
+      internalID: -2057295093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_250
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 703
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc697320f1340fdba60184ac8a3566
+      internalID: 237503515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_251
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 703
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404477798d4ea41ea982a0e65d6f72a3
+      internalID: -166966277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_252
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 703
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592931e319cfb435ea640394281d99d2
+      internalID: 1654304212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_253
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 641
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db8c49d66b04153ba70df1947c4408
+      internalID: 1553941079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_254
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 640
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3a34069f754dd19deeef744bb9f8f
+      internalID: 1350745689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_255
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 640
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36480b29de3c480791874954f656d87
+      internalID: 1262072364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_256
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 644
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ff849b3b364416975d8c2290eca6c
+      internalID: -1113236788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_257
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 641
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4d5eca82e043ddbf98e67610474c1
+      internalID: -2112425765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_258
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 640
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aee6e8160cb4d44bb3c8d05155e3c2
+      internalID: -1284607114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_259
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 640
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810017417d31412ea2a1c1634c2fa72
+      internalID: -294653155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_260
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 643
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5663cc14f324674993038dca755a69
+      internalID: 1352743657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_261
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 575
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a92fa80b5074ad19ab24a747a71fff
+      internalID: -463707904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_262
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 575
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410297fbf15bb4d1399223ab9b5ad7cb
+      internalID: 1833020005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_263
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 576
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43201c9d7b66c4987acb6620406fa0b3
+      internalID: -1270090348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_264
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4f5eff602347c5971b3f1a166c393
+      internalID: -2063599955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_265
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 575
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edad678ff5be4920ac14fb75111e1db
+      internalID: 1542127482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_266
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 575
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1692859532427ea685fd9be5d1a68
+      internalID: 2012050236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_267
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 576
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e66210bb5943ddb34e72836bc886b
+      internalID: -495878779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_268
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 579
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50181700537b44d62846f8a7407c281e
+      internalID: -1674837334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_269
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c8c04b7836492f8ca5cd0db90270c
+      internalID: 1744583190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_270
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 512
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1e7f3791e047ce90b16327a7519b7
+      internalID: -1541622959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_271
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 512
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8823ddbbe2349b5b7990200d019eb5
+      internalID: 2049420099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_272
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 516
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333582ce935c4468796b31c7faef6faf
+      internalID: 732732898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_273
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfcbe90d4d6e47dbbedb3f043aeb1ce
+      internalID: -1160928154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_274
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 512
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377efd85f33b641e7a4ed5a45695a282
+      internalID: 955171014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_275
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 512
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da301225fbe0409a85d16f0cbc5ef51
+      internalID: 1392045625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_276
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 515
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941fa35a8b6d4cd8bb18d7df01e33dc
+      internalID: 30886840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_277
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e1285856f542f280cae5818844580
+      internalID: 893052792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_278
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 449
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae236dbade2430fbcb8b4eff961ad3
+      internalID: -505982743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_279
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 466
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d26c78e54a404277b0241c33be4d351
+      internalID: -340175952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_280
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 449
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9598f26b48b942eeb89592a9c653806
+      internalID: 629659810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_281
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 449
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bfb8f7da37947c789b97216a66df32
+      internalID: -1266128712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_282
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 449
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c446aa77ad95f4c34895ae96f5297c5b
+      internalID: 69167901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_283
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 449
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b07a442f6e548bda3bf5535c75f98f
+      internalID: 1817527982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_284
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 449
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f37a712eb8a4894bf66d602d862664
+      internalID: 311649109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_285
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 449
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce57b06cc98146f99d1e059a55754e0
+      internalID: 198059400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_286
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 449
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fcce1aa242e481d8eceb1a8006a753
+      internalID: 1319123992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_287
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 449
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9902a1043c44b5c8d1fe8d844784e9
+      internalID: -1388288216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_288
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 449
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aecfcdccaab44aa09f81cf81a371816
+      internalID: -1749614460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_289
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 449
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c4eaa02bc44e27b0ed4c2db7b58bd
+      internalID: 972946129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_290
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 449
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb2cf931e664fc8b6b6271cb5dd37a
+      internalID: -81483778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_291
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 385
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6bc4d4c9e54e8a9097df00f4361a1
+      internalID: 1683948248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_292
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 385
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1941fa08739d4aa78c7b280093fa833
+      internalID: 56821720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_293
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18115e1c70fa4922bd24c2a1c7f2c56
+      internalID: -1794497451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_294
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8442b545164dc0b3498358f22fcea
+      internalID: 1668788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_295
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7082939a99bee437e99723d95f478c12
+      internalID: -1709896447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_296
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93cc034971c4c90b56cff478074260
+      internalID: 1711748977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_297
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 385
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb1a328c616472a9ba093c1cf9a7d1
+      internalID: 1546022675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_298
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 385
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736fb53b32ee4242b7f9406d83efc14
+      internalID: 855339689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_299
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 385
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec2a9c069604993bbdd0c4b10fec33
+      internalID: -1829369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_300
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 385
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74de87669a4848658272ea04d57c66b
+      internalID: 240190153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_301
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 385
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0fbc94e5524ec78f97973de67de89
+      internalID: -1870749506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_302
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 385
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fac47032744c42a143cacfb70e325
+      internalID: -1714078937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_303
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 385
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69a0dc9499f479ca266e7dc09869e0
+      internalID: 1920918425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_304
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 321
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9af63bb4c74097a238301e0d4d7a1
+      internalID: -544337200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_305
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b408a40c85141a39922c866c725582
+      internalID: 478598951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_306
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 321
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7bacb90ba94e0fbf7b96be6a83848
+      internalID: 1860276044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_307
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 321
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9a51a04d6a4f9583d75901c3c2744
+      internalID: -1070539335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_308
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 321
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff70a270fc9ca4db59ad301b293742ee
+      internalID: 992846167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_309
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 321
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9faa453b3cf54050baf5323c64d3f71
+      internalID: -151461133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_310
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 321
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8069c0d1ad347a2b05290295476bd4
+      internalID: -2092822567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_311
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 321
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dedd90b1458482d9b08974fd43a287
+      internalID: -2132934915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_312
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 321
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a9822d458c4b03b96d0d4d757ab4d
+      internalID: -1838578381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_313
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 321
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a017ca45a74a2dadb38c08853b260
+      internalID: 135175385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_314
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 321
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219a120787174a5ebe829d4b125d401
+      internalID: -1225515044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_315
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 321
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32387db7ddf7245b693b38ad7ad0c22a
+      internalID: 1859143123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_316
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfdb4383260849ea866eabff9b2d0ee
+      internalID: 149448825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_317
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98769f598cd4280be53c6a8cb41014
+      internalID: 2111984062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_318
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 257
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05de32cbb9643b2abbdb6091dc8ec7
+      internalID: 2070336210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_319
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 257
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c52f33b53dd498fa3d4eebcacd1af2
+      internalID: -1816205364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_320
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 257
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef468208d9a4563a57c8db0c210939
+      internalID: 921865797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_321
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 257
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9d2dcfaf4724dce901dd9b75bb5ab1
+      internalID: -41396698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_322
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 257
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b97f3953024964bb57d48d4849af3
+      internalID: 2011706653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_323
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 257
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd0d8e65ed38419da6629aa6390d697
+      internalID: 1290311326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_324
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 279
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813daf951b5b4c1c8db1cbba334f419
+      internalID: -1796953415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_325
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 257
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e57a09651ed4a2383a6e3184246946
+      internalID: -275231910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_326
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 276
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fb7583d06f4abeb3e15d482d6c2a0
+      internalID: 1900411005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_327
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 257
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f78aa079dce40feb676e5acc0397b1
+      internalID: 1942493625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_328
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 257
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ef2fd234e5411288493f1a07ea35d
+      internalID: -1883025113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_329
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 257
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1361fead420a945908c7cb5c783405b8
+      internalID: 1061220166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_330
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 257
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613cdd338ace4c78b962cb2d7bd35ae
+      internalID: -438090737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_331
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 257
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf803668cf8e4bedacf33ee730dc2f1
+      internalID: -969258170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_332
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 193
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf37b4e93b440ec983c2c39fa0fc3e
+      internalID: 1677361086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_333
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9709abdc9635421392c015f8d94e21f
+      internalID: -509224120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_334
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a84b0c4bbf8e49bca624a0717c52c7b
+      internalID: -251693757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_335
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f323a34d553304570b54dd1c8604f283
+      internalID: -519851026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_336
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b7e92269dd4b238a616c7f1dbfae0
+      internalID: -969209339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_337
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 193
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92dad72d4a464eaaaa199573f305273
+      internalID: -284750321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_338
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 129
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967359bec99fb4b71a592b888f988dc8
+      internalID: -701051780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_339
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b107afdb6d4345cebfa00cf577def5b
+      internalID: -256383843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_340
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baabbdc044ddf4519a78c74df6108040
+      internalID: -893193759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_341
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 128
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3325b6c2afff4edea52e076ec51fcf3
+      internalID: -580484964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_342
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6035c8a6f5e4d13b8e2a787aca0b2b
+      internalID: 1659491004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_343
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c13baedaa94156bb7d409fadbc459
+      internalID: 43786907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_344
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 148
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec2a6b5d842437aa19c928b9a7814d
+      internalID: -1067069997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_345
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7dba96090714f7183253522cf72d0b
+      internalID: -36006726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_346
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ca3dc6e4b5407b972c39d2c0999c7
+      internalID: 204805219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_347
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f42c3ece14f4bbe9d186fef4628050
+      internalID: -2069306580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_348
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e65b113416420592984b5415b2008
+      internalID: 336774290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_349
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 63
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe89899dcf14dc9a03c5c57fcd505a
+      internalID: 567406056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_350
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3401dd2e3d4c1f87b64c279bfb2cf
+      internalID: -1930727898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_351
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 63
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f023cdc38b99410c959d761a084b60a
+      internalID: -84897928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_352
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69679359a769e42589bad56cddccaf29
+      internalID: 942557249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_353
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3264a478157427582b1ec3da667dbf
+      internalID: 1070648831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_354
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e927c778ec94a0189c0563a7e657dc
+      internalID: 527950119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_355
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd58a767d375464eb0096323b57e984
+      internalID: 1931589795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_356
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695af04e59c942e2ab7412272f174dc
+      internalID: 52084679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_357
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1aac8ca448b48df8bc084dbafa9c99
+      internalID: -407974260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_358
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e63d4aad57f41c19e93ae1e508a2f8
+      internalID: -1768141836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoboCop_359
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d20652d5faa428c9e2477115760db4
+      internalID: -824958433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RoboCop_0: -1547250669
+      RoboCop_1: 905213971
+      RoboCop_10: -1238782826
+      RoboCop_100: -1666291355
+      RoboCop_101: 859139767
+      RoboCop_102: -471623955
+      RoboCop_103: 605466387
+      RoboCop_104: -1848061338
+      RoboCop_105: -1958992472
+      RoboCop_106: 1093499266
+      RoboCop_107: 338742549
+      RoboCop_108: 923845348
+      RoboCop_109: 1175876754
+      RoboCop_11: -488827033
+      RoboCop_110: 1231241552
+      RoboCop_111: 1039248838
+      RoboCop_112: -1209152805
+      RoboCop_113: -319407096
+      RoboCop_114: -514899575
+      RoboCop_115: -2079107225
+      RoboCop_116: -623817845
+      RoboCop_117: 1783196827
+      RoboCop_118: 376908030
+      RoboCop_119: -63589225
+      RoboCop_12: 329530226
+      RoboCop_120: 312464385
+      RoboCop_121: 1041290664
+      RoboCop_122: -612104107
+      RoboCop_123: 52783409
+      RoboCop_124: 5778573
+      RoboCop_125: -1434630703
+      RoboCop_126: 189870997
+      RoboCop_127: 1730434427
+      RoboCop_128: -908076934
+      RoboCop_129: 1204874187
+      RoboCop_13: 203910386
+      RoboCop_130: -1770701551
+      RoboCop_131: 2011794238
+      RoboCop_132: -1035976518
+      RoboCop_133: 328432809
+      RoboCop_134: -1487156332
+      RoboCop_135: -1983586699
+      RoboCop_136: -1940898035
+      RoboCop_137: 60499932
+      RoboCop_138: -847997708
+      RoboCop_139: 856002036
+      RoboCop_14: -638824344
+      RoboCop_140: -1395446670
+      RoboCop_141: -855101299
+      RoboCop_142: -1640428926
+      RoboCop_143: 2009245187
+      RoboCop_144: 8371044
+      RoboCop_145: -1952901479
+      RoboCop_146: 380969939
+      RoboCop_147: 702886578
+      RoboCop_148: 1913239089
+      RoboCop_149: 874627600
+      RoboCop_15: 1647511841
+      RoboCop_150: -917632573
+      RoboCop_151: -970564683
+      RoboCop_152: 1058342185
+      RoboCop_153: -553644983
+      RoboCop_154: -631509800
+      RoboCop_155: 1098852210
+      RoboCop_156: -1184126177
+      RoboCop_157: 118146632
+      RoboCop_158: 1457121707
+      RoboCop_159: 1186475832
+      RoboCop_16: -589372007
+      RoboCop_160: -159891884
+      RoboCop_161: 1784143112
+      RoboCop_162: -1506128566
+      RoboCop_163: -198265774
+      RoboCop_164: -2051049121
+      RoboCop_165: -359055375
+      RoboCop_166: -518245932
+      RoboCop_167: -95750665
+      RoboCop_168: 866009439
+      RoboCop_169: 437086463
+      RoboCop_17: 1347483082
+      RoboCop_170: 258522301
+      RoboCop_171: -529853242
+      RoboCop_172: 434373438
+      RoboCop_173: 1425879028
+      RoboCop_174: 329846160
+      RoboCop_175: 1504056250
+      RoboCop_176: 240468767
+      RoboCop_177: 1574012620
+      RoboCop_178: 1938849354
+      RoboCop_179: 254178494
+      RoboCop_18: 382780343
+      RoboCop_180: -2054604494
+      RoboCop_181: -1487415613
+      RoboCop_182: 2143606041
+      RoboCop_183: 301491428
+      RoboCop_184: -2056880316
+      RoboCop_185: 1922895684
+      RoboCop_186: 726844588
+      RoboCop_187: -1689430376
+      RoboCop_188: -171245205
+      RoboCop_189: 84240977
+      RoboCop_19: 780006039
+      RoboCop_190: -1570175389
+      RoboCop_191: 865519797
+      RoboCop_192: 1399689705
+      RoboCop_193: 566238287
+      RoboCop_194: -1684730317
+      RoboCop_195: 1118540624
+      RoboCop_196: 292046917
+      RoboCop_197: -167991176
+      RoboCop_198: 877834741
+      RoboCop_199: 703664025
+      RoboCop_2: -1526749308
+      RoboCop_20: 566192395
+      RoboCop_200: 953420010
+      RoboCop_201: -517398566
+      RoboCop_202: -2136637463
+      RoboCop_203: 1484145098
+      RoboCop_204: 1755437912
+      RoboCop_205: 517760785
+      RoboCop_206: -873506325
+      RoboCop_207: 1677917975
+      RoboCop_208: 1190975271
+      RoboCop_209: -924520349
+      RoboCop_21: -1365650798
+      RoboCop_210: -1357492588
+      RoboCop_211: 505560874
+      RoboCop_212: 1577990095
+      RoboCop_213: 9176771
+      RoboCop_214: 708708058
+      RoboCop_215: -755288902
+      RoboCop_216: 399442179
+      RoboCop_217: 1595876651
+      RoboCop_218: -580267693
+      RoboCop_219: 1804855845
+      RoboCop_22: -1427880017
+      RoboCop_220: -655028638
+      RoboCop_221: 138147019
+      RoboCop_222: 160443322
+      RoboCop_223: -1553454179
+      RoboCop_224: 2024366519
+      RoboCop_225: 447405188
+      RoboCop_226: 2126539039
+      RoboCop_227: -179147073
+      RoboCop_228: 1073429443
+      RoboCop_229: 467567098
+      RoboCop_23: -444540498
+      RoboCop_230: -581689192
+      RoboCop_231: 1145621651
+      RoboCop_232: -435081462
+      RoboCop_233: -1834705538
+      RoboCop_234: 841349080
+      RoboCop_235: 2091598549
+      RoboCop_236: -984447276
+      RoboCop_237: 692896454
+      RoboCop_238: 1104263507
+      RoboCop_239: -353365787
+      RoboCop_24: -1998504045
+      RoboCop_240: -1475432700
+      RoboCop_241: 2033224203
+      RoboCop_242: -1365846139
+      RoboCop_243: -1984078509
+      RoboCop_244: 359390572
+      RoboCop_245: -191870755
+      RoboCop_246: -367092038
+      RoboCop_247: 1182390470
+      RoboCop_248: 1593106066
+      RoboCop_249: -2057295093
+      RoboCop_25: -614587571
+      RoboCop_250: 237503515
+      RoboCop_251: -166966277
+      RoboCop_252: 1654304212
+      RoboCop_253: 1553941079
+      RoboCop_254: 1350745689
+      RoboCop_255: 1262072364
+      RoboCop_256: -1113236788
+      RoboCop_257: -2112425765
+      RoboCop_258: -1284607114
+      RoboCop_259: -294653155
+      RoboCop_26: 262747320
+      RoboCop_260: 1352743657
+      RoboCop_261: -463707904
+      RoboCop_262: 1833020005
+      RoboCop_263: -1270090348
+      RoboCop_264: -2063599955
+      RoboCop_265: 1542127482
+      RoboCop_266: 2012050236
+      RoboCop_267: -495878779
+      RoboCop_268: -1674837334
+      RoboCop_269: 1744583190
+      RoboCop_27: -564869688
+      RoboCop_270: -1541622959
+      RoboCop_271: 2049420099
+      RoboCop_272: 732732898
+      RoboCop_273: -1160928154
+      RoboCop_274: 955171014
+      RoboCop_275: 1392045625
+      RoboCop_276: 30886840
+      RoboCop_277: 893052792
+      RoboCop_278: -505982743
+      RoboCop_279: -340175952
+      RoboCop_28: -349321555
+      RoboCop_280: 629659810
+      RoboCop_281: -1266128712
+      RoboCop_282: 69167901
+      RoboCop_283: 1817527982
+      RoboCop_284: 311649109
+      RoboCop_285: 198059400
+      RoboCop_286: 1319123992
+      RoboCop_287: -1388288216
+      RoboCop_288: -1749614460
+      RoboCop_289: 972946129
+      RoboCop_29: -1229184538
+      RoboCop_290: -81483778
+      RoboCop_291: 1683948248
+      RoboCop_292: 56821720
+      RoboCop_293: -1794497451
+      RoboCop_294: 1668788600
+      RoboCop_295: -1709896447
+      RoboCop_296: 1711748977
+      RoboCop_297: 1546022675
+      RoboCop_298: 855339689
+      RoboCop_299: -1829369693
+      RoboCop_3: -658760204
+      RoboCop_30: -1505138673
+      RoboCop_300: 240190153
+      RoboCop_301: -1870749506
+      RoboCop_302: -1714078937
+      RoboCop_303: 1920918425
+      RoboCop_304: -544337200
+      RoboCop_305: 478598951
+      RoboCop_306: 1860276044
+      RoboCop_307: -1070539335
+      RoboCop_308: 992846167
+      RoboCop_309: -151461133
+      RoboCop_31: -702011522
+      RoboCop_310: -2092822567
+      RoboCop_311: -2132934915
+      RoboCop_312: -1838578381
+      RoboCop_313: 135175385
+      RoboCop_314: -1225515044
+      RoboCop_315: 1859143123
+      RoboCop_316: 149448825
+      RoboCop_317: 2111984062
+      RoboCop_318: 2070336210
+      RoboCop_319: -1816205364
+      RoboCop_32: -784510683
+      RoboCop_320: 921865797
+      RoboCop_321: -41396698
+      RoboCop_322: 2011706653
+      RoboCop_323: 1290311326
+      RoboCop_324: -1796953415
+      RoboCop_325: -275231910
+      RoboCop_326: 1900411005
+      RoboCop_327: 1942493625
+      RoboCop_328: -1883025113
+      RoboCop_329: 1061220166
+      RoboCop_33: 1576332768
+      RoboCop_330: -438090737
+      RoboCop_331: -969258170
+      RoboCop_332: 1677361086
+      RoboCop_333: -509224120
+      RoboCop_334: -251693757
+      RoboCop_335: -519851026
+      RoboCop_336: -969209339
+      RoboCop_337: -284750321
+      RoboCop_338: -701051780
+      RoboCop_339: -256383843
+      RoboCop_34: -2117066927
+      RoboCop_340: -893193759
+      RoboCop_341: -580484964
+      RoboCop_342: 1659491004
+      RoboCop_343: 43786907
+      RoboCop_344: -1067069997
+      RoboCop_345: -36006726
+      RoboCop_346: 204805219
+      RoboCop_347: -2069306580
+      RoboCop_348: 336774290
+      RoboCop_349: 567406056
+      RoboCop_35: 1054343706
+      RoboCop_350: -1930727898
+      RoboCop_351: -84897928
+      RoboCop_352: 942557249
+      RoboCop_353: 1070648831
+      RoboCop_354: 527950119
+      RoboCop_355: 1931589795
+      RoboCop_356: 52084679
+      RoboCop_357: -407974260
+      RoboCop_358: -1768141836
+      RoboCop_359: -824958433
+      RoboCop_36: -885380619
+      RoboCop_37: -1682719433
+      RoboCop_38: -1036877321
+      RoboCop_39: -1531035866
+      RoboCop_4: -1041824529
+      RoboCop_40: 1161192104
+      RoboCop_41: 1155642814
+      RoboCop_42: 1796264220
+      RoboCop_43: -30436844
+      RoboCop_44: -1860263689
+      RoboCop_45: -1221103762
+      RoboCop_46: 1162731674
+      RoboCop_47: -1429167707
+      RoboCop_48: 1698470958
+      RoboCop_49: 12114927
+      RoboCop_5: -1958779688
+      RoboCop_50: -1302128930
+      RoboCop_51: 1449278838
+      RoboCop_52: 1079394032
+      RoboCop_53: -1688308962
+      RoboCop_54: 1687857770
+      RoboCop_55: 1670804094
+      RoboCop_56: -387479892
+      RoboCop_57: 57821636
+      RoboCop_58: -1225462558
+      RoboCop_59: -1555215812
+      RoboCop_6: 1083958721
+      RoboCop_60: -263732461
+      RoboCop_61: 2997276
+      RoboCop_62: -83073955
+      RoboCop_63: -135482214
+      RoboCop_64: 1578368366
+      RoboCop_65: -851563251
+      RoboCop_66: 981348406
+      RoboCop_67: 412351488
+      RoboCop_68: 814124231
+      RoboCop_69: -1333733026
+      RoboCop_7: 332568175
+      RoboCop_70: -56518359
+      RoboCop_71: -1646968607
+      RoboCop_72: -1336152131
+      RoboCop_73: -1260948302
+      RoboCop_74: -558022449
+      RoboCop_75: -942943291
+      RoboCop_76: 365685458
+      RoboCop_77: 61282153
+      RoboCop_78: -2026958706
+      RoboCop_79: -1886059374
+      RoboCop_8: 1227133697
+      RoboCop_80: 1180322097
+      RoboCop_81: 1456433352
+      RoboCop_82: 964050921
+      RoboCop_83: 413793252
+      RoboCop_84: 1657092782
+      RoboCop_85: 751253146
+      RoboCop_86: -1197921617
+      RoboCop_87: 1859650721
+      RoboCop_88: -1717466790
+      RoboCop_89: 476938713
+      RoboCop_9: 730972344
+      RoboCop_90: -1917036976
+      RoboCop_91: 837695792
+      RoboCop_92: -1278252798
+      RoboCop_93: -967467350
+      RoboCop_94: 465581512
+      RoboCop_95: 1284765263
+      RoboCop_96: 712199457
+      RoboCop_97: -1419574376
+      RoboCop_98: 1153021327
+      RoboCop_99: 649324272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

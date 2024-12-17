@@ -1,0 +1,17 @@
+using UnityEngine;
+
+public class NPCAnimationController : MonoBehaviour 
+{
+    private Animator animator;
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
+    // Called when dialogue ends
+    public void StartWalkingUp()
+    {
+        animator.SetBool("IsWalking", true);
+    }
+}
