@@ -23,10 +23,6 @@ In cybersecurity education, a major challenge lies in the lack of practical yet 
 - 🌟 **3. Engaging Experiences**  
   From missions to epic game interaction, CyEscape creates an immersive, memorable, and educational journey for learners.
 
-
-### 🚀 *Ready to Play and Learn?*  
-🌐 *Explore, escape, and secure with CyEscape.*  
-
 ### 📚*Resources*  
 - Team Website: https://sddec24-07.sd.ece.iastate.edu
 - Project Slideshow: https://shorturl.at/GEdWA
